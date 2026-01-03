@@ -4,8 +4,8 @@
 А мы бежим в огненном море.  
 Жар избежим или утонем...
 ***
-instagram - @new_poetry_official  
-telegram - @new_poetry_official
+instagram - @bodrozh  
+telegram - @bodrozh
 
 Песни
 Вконтакте - https://vk.com/bodrozh  
@@ -14,6 +14,10 @@ telegram - @new_poetry_official
 
 ## Список песен
 
+2026
+- [Как дела?](music/Как_дела/Как_дела.md)
+
+2025
 - [Я снова возвращаюсь](music/Я_снова_возвращаюсь/Я_снова_возвращаюсь.md)
 - [Поздно](music/Поздно/Поздно.md)
 - [Прошлое](music/Прошлое/Прошлое.md)
